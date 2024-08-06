@@ -70,7 +70,6 @@ void multiplicatonTable()
 	System.out.println("Enter a number");
 	int e=S.nextInt();
 	int f=1;
-	System.out.println(.out.printlnC);
 	System.out.println(f+ "*" +e+ "=" +(f++*e));
 	System.out.println(f+ "*" +e+ "=" +(f++*e));
 	System.out.println(f+ "*" +e+ "=" +(f++*e));

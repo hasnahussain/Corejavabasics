@@ -2,7 +2,7 @@ package a;
 
 import java.util.Scanner;
 
-public class PMDtoB 
+public class PMDtoB
 {
 public static void main(String[] args)
 {

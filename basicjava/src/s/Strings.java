@@ -19,7 +19,8 @@ System.out.println(myStr1.toUpperCase());
 	System.out.println(myStr1.toLowerCase());
 	System.out.println(myStr1.equals(myStr2));
 	System.out.println(myStr1.equals(myStr3));
-System.out.println(myStr1.substring(2,3));
+	System.out.println();
+
 	
 }
 }
